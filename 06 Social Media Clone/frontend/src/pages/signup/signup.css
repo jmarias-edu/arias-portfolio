@@ -1,0 +1,21 @@
+div.window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    margin:0px;
+}
+
+p.signup{
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+button.signup1{
+    margin-top:10px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 15px;
+}

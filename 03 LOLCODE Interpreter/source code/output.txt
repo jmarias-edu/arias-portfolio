@@ -1,0 +1,31 @@
+HAI : start
+\n : new_line
+I HAS A : variable_declarator
+string : variable_identifier
+ITZ : variable_declarator_ITZ
+" : string_delimeter
+hehe :) hello : string_literal
+" : string_delimeter
+\n : new_line
+VISIBLE : print_statement
+string : variable_identifier
+\n : new_line
+string : variable_identifier
+R : casting_assignment
+2 : numbr_literal
+\n : new_line
+VISIBLE : print_statement
+string : variable_identifier
+\n : new_line
+VISIBLE : print_statement
+" : string_delimeter
+:> hehe : string_literal
+" : string_delimeter
+\n : new_line
+VISIBLE : print_statement
+" : string_delimeter
+:o xd : string_literal
+" : string_delimeter
+\n : new_line
+KTHXBYE : end
+\n : new_line

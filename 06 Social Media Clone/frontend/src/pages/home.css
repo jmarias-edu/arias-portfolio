@@ -1,0 +1,43 @@
+div.half1{
+    width: 30%;
+    height:100vh;
+    float:left;
+    background-color: green;
+}
+
+div.half2{
+    width: 70%;
+    height:100%;
+    float:left;
+    padding-top: 15%;
+}
+
+div.content{
+    padding-left: 40px;
+}
+
+button.signup{
+    margin-top:10px;
+    width:200px;
+    height:40px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+button.login{
+    margin-top:10px;
+    width:200px;
+    height:40px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+p.sub{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.left{
+    float: left;
+}

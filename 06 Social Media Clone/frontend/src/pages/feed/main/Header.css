@@ -1,0 +1,38 @@
+.head{
+    height: 50px;
+    background-color: #D9F9A5;
+    padding: 0.25%;
+
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    max-width: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.headerside{
+    width: 30%;
+}
+
+.headermiddle{
+    width:50%;
+}
+
+p.logoname{
+    font-family:cursive;
+    font-weight: bold;
+    color: #7BC00C;
+    font-size: 30px;
+    padding-right:85px;
+}
+
+.link{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #70A4B1;
+}
